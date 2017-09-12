@@ -14,5 +14,8 @@ public class MainActivity extends AppCompatActivity {
 
     private void initData() {
 
+        for (int i = 0; i < 10; i++) {
+
+        }
     }
 }
